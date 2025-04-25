@@ -1,7 +1,20 @@
 # 💫 About Me:
-🔭 I’m currently studying Algonquin College <br>🌱 I’m currently learning Java Enterprise & .Net Enterprise
+I am passionate about software development, cloud computing, and building efficient, scalable systems. With experience in various programming languages and frameworks, I am always eager to expand my knowledge and dive into new technologies. Whether it’s developing full-stack applications or working on cloud infrastructure, I enjoy creating solutions that make a real-world impact. I'm particularly focused on improving my skills in cloud architecture, DevOps practices, and backend development.
 
-
+## 🛠️ Skills:
+- **Programming Languages**: C#, C, C++, Java, Python, Dart, PHP
+- **Web Development**: HTML5, CSS3, JavaScript (React, Node.js), GraphQL, TypeScript
+- **Cloud Platforms**: Azure, AWS, Google Cloud, Firebase, Heroku
+- **Databases**: MySQL, Microsoft SQL Server, SQLite, Firebase Firestore, PostgreSQL, MongoDB
+- **DevOps & CI/CD**: GitHub Actions, Azure DevOps, Terraform, Kubernetes, Docker, Ansible, Jenkins
+- **Version Control**: Git, GitHub, GitLab, Bitbucket
+- **Tools & Frameworks**: Flutter, .NET, Java Enterprise, Spring Boot, Express.js, Django, Flask
+- **Containerization & Orchestration**: Docker, Kubernetes
+- **API Development & Integration**: RESTful APIs, GraphQL APIs, WebSockets
+- **Monitoring & Logging**: Grafana, Azure Monitor, CloudWatch, Prometheus, ELK Stack
+- **Scripting & Automation**: Bash, PowerShell, Python scripting
+- **Security & Compliance**: OAuth, OpenID, SSL/TLS, Zero Trust Architecture
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/savaserturk) 
 
